@@ -16,7 +16,7 @@
   <h2>現在 チカラを入れていること</h2>
   <ul>
     <li>「Splunk」/「CompTIA Security+」を学習中</li>
-    <li>Web制作（PHP / Docker 使用）</li>
+    <li>Web制作（PHP / Laravel /Docker 使用）</li>
     <li>基本情報技術者試験勉強</li>
   </ul>
   <p>現在は、ITインフラ・セキュリティの専門知識を深めつつ、クリエイティブな映像表現にも挑戦しています。</p>
