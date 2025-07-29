@@ -24,7 +24,7 @@
 <div class="card">
   <h2>技術スタック</h2>
   <ul>
-    <li><strong>インフラ・セキュリティ：</strong>Linux（Ubuntu/Kali）、Apache、…</li>
+    <li><strong>インフラ・セキュリティ：</strong>Linux（Ubuntu/Kali）、Apache</li>
     <li><strong>プログラミング：</strong>Java、HTTP、PHP</li>
     <li><strong>クリエイティブ：</strong>Premiere Pro、DMXを使用した照明演出、WordPress</li>
   </ul>
