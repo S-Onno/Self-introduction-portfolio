@@ -25,7 +25,7 @@
   <h2>技術スタック</h2>
   <ul>
     <li><strong>インフラ・セキュリティ：</strong>Linux（Ubuntu/Kali）、Apache</li>
-    <li><strong>プログラミング：</strong>Java、HTTP、PHP</li>
+    <li><strong>プログラミング：</strong>Java、HTTP、PHP,JavaScript(学習中)</li>
     <li><strong>クリエイティブ：</strong>Premiere Pro、DMXを使用した照明演出、WordPress</li>
   </ul>
 </div>
@@ -44,7 +44,7 @@
   <h2>私のビジョン</h2>
   <p>
     私は、ITの技術と動画編集で培ったクリエイティブの感性を生かして、技術と人の心をつなぐエンジニアを目指しています。 <br>
-    技術力と創造力を両立し、<strong>IT×クリエイティブエンジニア</strong>として誰もが驚き、感動する“体験そのもの”を提供できるサービスを技術力で支えることを目指していき、変化の激しいIT業界で成長し続けるエンジニアになります。
+    技術力と創造力を両立し、<strong>IT×クリエイティブエンジニア</strong>として、感動する“体験そのもの”を提供できるサービスを技術力で支えることを目指していき、変化の激しいIT業界で成長し続けるエンジニアになります。
 </div>
 
 <div class="card">
