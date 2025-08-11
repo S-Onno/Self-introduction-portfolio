@@ -14,6 +14,6 @@ ss250016.stars.ne.jp
 
 ## 今後やりたいこと
 - JavaScriptを使用して、動きのあるサイトを作成する。
-  （Node.js・Next.jsを勉強中）
+  （Node.js・Next.jsを導入&勉強中）
   
 
