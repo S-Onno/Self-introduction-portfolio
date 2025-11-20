@@ -5,7 +5,9 @@
 
     <li>2022年4月 - 沖縄県内のIT専門学校入学</li>
     <li>SECCON主催 CTF2024 参加（2024年）</li>
-    <li>Micro Hardening Basic 参加　(2024年)</li>
+    <li>Micro Hardening Basic 参加 (2024年)</li>
+    <li>動画編集の副業開始（2021年〜現在）</li>
+    <li>Linuxを使用したサーバ構築（2024年）</li>
 
 </ul>
 <?php include("includes/footer.php"); ?>

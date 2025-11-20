@@ -1,0 +1,70 @@
+/* リセットや基本 */
+html,body { height:100%; }
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+	line-height:1.8;
+	margin:0;
+	padding:24px;
+	background:linear-gradient(145deg, #eaf4ff 0%, #f8fbff 55%, #ffffff 100%);
+	color:#0f1c3f;
+}
+
+/* レイアウト */
+.container { max-width:980px; margin:0 auto; }
+
+/* コンポーネント */
+.hero {
+	background:#ffffff;
+	padding:28px;
+	border-radius:14px;
+	box-shadow:0 16px 32px rgba(31,111,235,0.12);
+	border:1px solid rgba(31,111,235,0.12);
+	margin-bottom:28px;
+}
+
+.card {
+	background:#ffffff;
+	padding:22px;
+	border-radius:14px;
+	margin-bottom:20px;
+	box-shadow:0 12px 28px rgba(23,75,159,0.1);
+	border:1px solid rgba(38,111,217,0.08);
+}
+
+h2, h3 {
+	margin:0 0 12px 0;
+	color:#194a9d;
+	letter-spacing:0.02em;
+}
+
+.button {
+	display:inline-block;
+	padding:12px 18px;
+	background:linear-gradient(135deg, #2276f5 0%, #1d62d6 100%);
+	color:#fff;
+	text-decoration:none;
+	border-radius:999px;
+	font-weight:600;
+	box-shadow:0 10px 20px rgba(34,118,245,0.25);
+	transition:transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.button:hover {
+	transform:translateY(-2px);
+	box-shadow:0 14px 24px rgba(34,118,245,0.3);
+}
+
+a { color:#1d62d6; }
+a:hover { color:#0f46a3; }
+
+ul { margin:0; padding-left:1.2em; }
+
+/* footer のセンタリング（インライン style をここに移動） */
+footer.card { text-align:center; background:rgba(29,98,214,0.06); }
+
+/* レスポンシブ微調整 */
+@media (max-width:600px) {
+	body { padding:16px; }
+	.container { padding:0 8px; }
+	.hero, .card { border-radius:12px; }
+}
