@@ -3,12 +3,13 @@
 <div class="card">
   <h2>私の資格 / 実績</h2>
   <ul>
-    <li>第二種電気工事士 取得(2022年)</li>
-    <li>情報セキュリティマネジメント試験 合格(2022年)</li>
-    <li>Linux Ubuntuを使用したサーバ構築（2024年）</li>
-    <li>Micro Hardening Basic 2024 参加（2024年6月）</li>
-    <li>SECCON Beginners CTF 2024 参加（2024年6月）</li>
-    <li>Micro Hardening Basic 2025 参加（2025年6月）</li>
+    <li>第二種電気工事士（2022年）</li>
+    <li>情報セキュリティマネジメント試験 合格（2022年）</li>
+    <li>SECCON CTF2024 参加（2024年）</li>
+    <li>Micro Hardening Basic 2024・2025 参加</li>
+    <li>技育CAMP2025 ハッカソンVol.11 努力賞受賞（2025年8月）</li>
+    <li>LinuC Level1 Exam 102 合格（2025年）</li>
+    <li>CompTIA Security+ 取得（2025年）</li>
   </ul>
 </div>
 
